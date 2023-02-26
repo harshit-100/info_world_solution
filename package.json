@@ -1,0 +1,19 @@
+{
+  "name": "info_world_solution",
+  "version": "1.0.0",
+  "description": "dynamic web site using bootstrap, node, express, mingo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshit-100/info_world_solution.git"
+  },
+  "author": "harshit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshit-100/info_world_solution/issues"
+  },
+  "homepage": "https://github.com/harshit-100/info_world_solution#readme"
+}
